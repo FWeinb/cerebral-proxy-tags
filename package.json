@@ -11,7 +11,7 @@
 	},
 	"dependencies": {
 		"cerebral": "next",
-		"function-tree": "next",
+		"function-tree": "next"
 	},
 	"devDependencies": {
 		"babel-jest": "^18.0.0",
