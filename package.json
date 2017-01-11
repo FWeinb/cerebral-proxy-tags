@@ -1,8 +1,8 @@
 {
 	"name": "cerebral-proxy-tags",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Use Proxys as cerebral tags",
-	"main": "index.js",
+	"main": "dist/index.js",
 	"author": "Fabrice Weinberg",
 	"license": "MIT",
 	"scripts": {
@@ -11,8 +11,7 @@
 		"prepublish": "babel -d dist ./*.js"
 	},
 	"dependencies": {
-		"cerebral": "next",
-		"function-tree": "next"
+		"cerebral": "next"
 	},
 	"devDependencies": {
 		"babel-cli": "^6.18.0",
